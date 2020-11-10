@@ -1,2 +1,2 @@
-# bluemix spark notebooks
-This repository is designed to make spark notebooks for Python, R, Scala.
+# Jupyter Notebooks
+This repository is designed to make Jupyter notebooks for Python, R, Scala.
